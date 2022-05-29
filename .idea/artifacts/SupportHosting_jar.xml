@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SupportHosting:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SupportHosting_jar</output-path>
+    <root id="archive" name="SupportHosting.jar">
+      <element id="module-output" name="SupportHosting" />
+      <element id="module-source" name="SupportHosting" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
+    </root>
+  </artifact>
+</component>
